@@ -5,7 +5,7 @@
 
 <!-- - 💬 Ask me about **Web Development, Java, DBMS, MySQL** -->
 
-- 👨‍💻 Check out my personal portfolio : **<a href="https://personalportfoliowebsitee.netlify.app/" target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio : **<a href="https://personalportfoliowebsitee.netlify.app/ target="_blank">Portfolio</a>**
 
 
 <h3 align="left">Connect with me:</h3>
