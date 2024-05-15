@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyam Singhal</h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38F7A2&width=435&lines=An+Aspiring+Software+Engineer" /> </h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=FAFF00&size=30&center=true&vCenter=true&lines=Hi%2C+Nice+to+meet+you+!!;I+am+learning+to+code+...;Be+Consistent.+Have+a+good+day+!!"></p>
+
 
 - 🌱 Learning Never Stops 🚀
 
